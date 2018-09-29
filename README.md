@@ -14,7 +14,7 @@ This is an tensorflow implementation of [Deformable Convolutional Network](https
 * [FAQ](#faq)
 ## TODO
 
-[x] Faster R-CNN
+- [x] Faster R-CNN
 - [x] Trained on ResNet-50
 - [x] More Networks
 - [ ] Potential bugs
